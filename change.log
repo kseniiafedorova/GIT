@@ -1,0 +1,12 @@
+Notepad++ v8.4.4 crash/regression-fixes and new enhancement:
+
+1.  Fix Find in Files crash regression.
+2.  Add shortcuts toward the settings of preferences dialog into Styler Configurator.
+
+echo "# GIT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kseniiafedorova/GIT.git
+git push -u origin main
